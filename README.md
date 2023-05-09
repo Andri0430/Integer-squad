@@ -16,6 +16,6 @@ Belajar Git Hub  pada tanggal 9-mei-2023
     6. Commit
         git commit -m "Berhasil Commit"
     7. Push
-        git push origin main atau git push -u origin main
+        git push origin main atau git push -u origin main.
 
 ![Tanjirou](tanjirou.jpg)
