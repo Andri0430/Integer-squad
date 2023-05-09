@@ -1,21 +1,21 @@
 # INTEGER SQUAD
-Belajar Git Hub  pada tanggal 9-mei-2023
+Belajar Git Hub  pada tanggal 9-mei-2023.
 
-*Langkah-Langkah*
-    1. Membuat Folder Kosong.
-    2. Menginisisalisasi Folder Kosong menjadi Foler Repository(git init).
-    3. Membuat file README.
-    4. Menginisialisasi origin dan Branch Folder kosong tadi.
-        a.Origin
+Langkah-Langkah :
+    - Membuat Folder Kosong.
+    - Menginisisalisasi Folder Kosong menjadi Foler Repository(git init).
+    - Membuat file README.
+    - Menginisialisasi origin dan Branch Folder kosong tadi.
+        - Origin
             git remote add origin https://github.com/Andri0430/Integer-squad.git
-        b.Branch
+        - Branch
             git config init.defaultBranch main
             git branch -M main
-    5. Add
+    - Add
         git add README atau git add .
-    6. Commit
+    - Commit
         git commit -m "Berhasil Commit"
-    7. Push
+    - Push
         git push origin main atau git push -u origin main.
 
 ![Tanjirou](tanjirou.jpg)
