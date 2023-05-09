@@ -1,4 +1,4 @@
-"integer Squad"
+# INTEGER SQUAD
 
 Belajar Git Hub  pada tanggal 9-mei-2023
 
