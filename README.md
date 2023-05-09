@@ -1,6 +1,8 @@
 # INTEGER SQUAD
 Belajar Git Hub  pada tanggal 9-mei-2023
+
 ![Tanjirou](tanjirou.jpg)
+
 Langkah-Langkah
     1. Membuat Folder Kosong.
     2. Menginisisalisasi Folder Kosong menjadi Foler Repository(git init).
