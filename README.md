@@ -1,9 +1,7 @@
 # INTEGER SQUAD
 Belajar Git Hub  pada tanggal 9-mei-2023
 
-![Tanjirou](tanjirou.jpg)
-
-Langkah-Langkah
+*Langkah-Langkah*
     1. Membuat Folder Kosong.
     2. Menginisisalisasi Folder Kosong menjadi Foler Repository(git init).
     3. Membuat file README.
@@ -19,3 +17,5 @@ Langkah-Langkah
         git commit -m "Berhasil Commit"
     7. Push
         git push origin main atau git push -u origin main
+
+![Tanjirou](tanjirou.jpg)
