@@ -2,7 +2,8 @@
 Belajar Git Hub  pada tanggal 9-mei-2023.
 
 Langkah-Langkah :
-    - Membuat Folder Kosong.
+
+    -Membuat Folder Kosong.
     - Menginisisalisasi Folder Kosong menjadi Foler Repository(git init).
     - Membuat file README.
     - Menginisialisasi origin dan Branch Folder kosong tadi.
